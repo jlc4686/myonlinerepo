@@ -1,1 +1,1 @@
-select myonlinereposql from table;
+select myonlinereposql, andlocalsql from table;
